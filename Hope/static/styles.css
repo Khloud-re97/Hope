@@ -1,0 +1,107 @@
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+nav {
+  background-color: #fff;
+  padding-bottom: 0;
+  font-size: 1.3rem;
+}
+
+.container{
+}
+.container-fluid {
+  background-color: #fff;
+  margin: 0;
+}
+
+.nav-item {
+  padding: 0 18px;
+  /*width: 60%;*/
+}
+
+.nav-link {
+  font-size: 5rem;
+  font-family: "Montserrat-Light";
+  width: 100%;
+}
+
+.intro {
+  text-align: center;
+}
+
+.quote-row {
+  padding-bottom: 10%;
+}
+
+.quote {
+  width: 7%;
+  height: 12%;
+}
+
+.first-quote-p {
+  font-size: 2rem;
+  width: 50%;
+  margin: Auto;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-brand {
+  width: 60%;
+  text-align: left;
+}
+
+.about-us {
+  text-align: center;
+  background-image: url("./images/hopebackground2.png");
+  margin-bottom: 7%;
+}
+
+.about {
+  font-size: 1.5rem;
+  line-height: 2;
+  margin: 2%;
+  text-align: justify;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.HOPE {
+  font-size: 2.5rem;
+}
+
+.user {
+  padding-top: 5px;
+  width: 5%;
+  position: relative;
+}
+.Test {
+  text-align: center;
+}
+
+button {
+  margin-top: 50%;
+}
+
+.social-icon {
+  margin: 20px 10px;
+  color: #000;
+}
+
+.social-icon:hover {
+  color: #FFC93C;
+}
+
+.footer-div {
+  background-color: transparent;
+}
+
+.footer-section {
+  background-color: transparent;
+  padding-bottom: 5%;
+  background-image: url("./images/hope-background.png");
+  margin-top: 10%;
+   text-align: center;
+  
+}
